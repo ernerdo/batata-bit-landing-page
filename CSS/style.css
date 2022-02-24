@@ -7,13 +7,23 @@
 */
 :root{
     /*Colores*/
-    --bitcoin-orange:#F7931A;
+    /* --bitcoin-orange:#F7931A;
     --soft-orange:#ffe9d5;
     --secondary-blue:#1a9af7;
     --soft-blue:#e7f5ff;
     --wam-black:#282623;
     --black:#201e1c;
     --grey:#bababa;
+    --off-white:#faf8f7;
+    --just-white:#fff; */
+    
+    --bitcoin-orange:#e64a19;
+    --soft-orange:#ffccbc;
+    --secondary-blue:#ff5722;
+    --soft-blue:#757575;
+    --wam-black:#212121;
+    --black:#201e1c;
+    --grey:#bdbdbd;
     --off-white:#faf8f7;
     --just-white:#fff;
 }
